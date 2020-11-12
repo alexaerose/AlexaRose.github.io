@@ -3,13 +3,9 @@ body {
 	margin:30px 30px 30px 30px;
 	}
 
-
 nav{ 
-font-size:20px
-color:green;
+font-size:22px;
 }
-
-
 	
 .box {
 background:lightslategray;
@@ -22,32 +18,26 @@ margin: auto;
 margin-bottom:auto;
 }
 
+p {
+	font-family:"Times New Roman",Helvetica,sansserif;
+	text-align:left;
+	font-size:20px;
+	}
+
+h1 {
+font-family:"Impact", cursive, sans-serif;
+font-size:60px;
+text-align:center;
+ }
+
 
 h2 {
 	font-family:"Times New Roman",Times, serif;
 	text-align:center;
 	font-size:25px;
 	}
-	
 
-p1 {
-	font-family:"Times New Roman",Helvetica,sansserif;
-	text-align:left;
-	font-size:18px;
-	}
-
-	
 h3{ font-family:"Times New Roman",Times, serif;
 	text-align:left;
 	font-size:25px;
 	}
-
-h1{
-font-family:"Impact", cursive, sans-serif;
-font-size:60px;
-text-align:center;
-}
-
-nav{ 
-font-size:20px;
-
