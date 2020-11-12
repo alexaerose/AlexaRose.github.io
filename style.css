@@ -1,0 +1,53 @@
+body {
+	background-color:aliceblue; 
+	margin:30px 30px 30px 30px;
+	}
+
+
+nav{ 
+font-size:20px
+color:green;
+}
+
+
+	
+.box {
+background:lightslategray;
+border-radius: 10px 10px 10px 10px;
+text-align: center;
+color:snow;
+width: 350px;
+padding: 3px;
+margin: auto;
+margin-bottom:auto;
+}
+
+
+h2 {
+	font-family:"Times New Roman",Times, serif;
+	text-align:center;
+	font-size:25px;
+	}
+	
+
+p1 {
+	font-family:"Times New Roman",Helvetica,sansserif;
+	text-align:left;
+	font-size:18px;
+	}
+
+	
+h3{ font-family:"Times New Roman",Times, serif;
+	text-align:left;
+	font-size:25px;
+	}
+
+h1{
+font-family:"Impact", cursive, sans-serif;
+font-size:60px;
+text-align:center;
+}
+
+nav{ 
+font-size:20px;
+
